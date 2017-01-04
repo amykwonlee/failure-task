@@ -6,3 +6,4 @@ Hi I'm trying to code
 I dont know what I'm doing
 
 I have an exam on Friday.
+Adding another line. 
